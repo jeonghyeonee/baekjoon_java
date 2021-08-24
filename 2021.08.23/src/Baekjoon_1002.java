@@ -16,7 +16,7 @@ public class Baekjoon_1002 {
             else if (Math.abs(r1-r2) == d || r1+r2 == d) System.out.println(1);
             else if (Math.abs(r1-r2)<d && d <Math.abs(r1+r2)) System.out.println(2);
             else System.out.println(0);
-            
+
         }
     }
 }
