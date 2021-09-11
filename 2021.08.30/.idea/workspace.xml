@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="34c59065-6b75-49b5-84cb-7e4ed3da19ee" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../2021.08.03/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.03/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.03/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.03/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.03/2021.08.03.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.03/out/production/2021.08.03/Baekjoon_1000.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.03/out/production/2021.08.03/Baekjoon_1001.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.03/out/production/2021.08.03/Baekjoon_1008.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.03/out/production/2021.08.03/Baekjoon_10171.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.03/out/production/2021.08.03/Baekjoon_10172.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.03/out/production/2021.08.03/Baekjoon_10430.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.03/out/production/2021.08.03/Baekjoon_10718.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.03/out/production/2021.08.03/Baekjoon_10869.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.03/out/production/2021.08.03/Baekjoon_10998.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.03/out/production/2021.08.03/Baekjoon_2557.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.03/out/production/2021.08.03/Baekjoon_2588.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.03/src/Baekjoon_1000.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.03/src/Baekjoon_1001.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.03/src/Baekjoon_1008.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.03/src/Baekjoon_10171.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.03/src/Baekjoon_10172.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.03/src/Baekjoon_10430.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.03/src/Baekjoon_10718.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.03/src/Baekjoon_10869.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.03/src/Baekjoon_10998.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.03/src/Baekjoon_2557.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.03/src/Baekjoon_2588.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.04/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.04/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.04/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.04/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.04/2021.08.04.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.04/out/production/2021.08.04/Baekjoon_1330.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.04/out/production/2021.08.04/Baekjoon_14681.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.04/out/production/2021.08.04/Baekjoon_2753.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.04/out/production/2021.08.04/Baekjoon_2884.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.04/out/production/2021.08.04/Baekjoon_9498.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.04/src/Baekjoon_1330.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.04/src/Baekjoon_14681.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.04/src/Baekjoon_2753.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.04/src/Baekjoon_2884.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.04/src/Baekjoon_9498.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.05/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.05/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.05/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.05/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.05/2021.08.05.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.05/out/production/2021.08.05/Baekjoon_10871.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.05/out/production/2021.08.05/Baekjoon_10950.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.05/out/production/2021.08.05/Baekjoon_11021.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.05/out/production/2021.08.05/Baekjoon_11022.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.05/out/production/2021.08.05/Baekjoon_15552.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.05/out/production/2021.08.05/Baekjoon_2438.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.05/out/production/2021.08.05/Baekjoon_2739.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.05/out/production/2021.08.05/Baekjoon_2741.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.05/out/production/2021.08.05/Baekjoon_2742.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.05/out/production/2021.08.05/Baekjoon_8393.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.05/out/production/2021.08.05/Beakjoon_2439.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.05/src/Baekjoon_10871.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.05/src/Baekjoon_10950.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.05/src/Baekjoon_11021.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.05/src/Baekjoon_11022.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.05/src/Baekjoon_15552.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.05/src/Baekjoon_2438.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.05/src/Baekjoon_2739.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.05/src/Baekjoon_2741.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.05/src/Baekjoon_2742.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.05/src/Baekjoon_8393.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.05/src/Beakjoon_2439.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.06/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.06/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.06/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.06/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.06/2021.08.06.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.06/out/production/2021.08.06/Baekjoon_10951.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.06/out/production/2021.08.06/Baekjoon_10952.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.06/out/production/2021.08.06/Baekjoon_1110.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.06/src/Baekjoon_10951.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.06/src/Baekjoon_10952.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.06/src/Baekjoon_1110.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.07/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.07/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.07/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.07/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.07/2021.08.07.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.07/out/production/2021.08.07/Baekjoon_10818.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.07/out/production/2021.08.07/Baekjoon_2562.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.07/out/production/2021.08.07/Baekjoon_2577.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.07/src/Baekjoon_10818.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.07/src/Baekjoon_2562.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.07/src/Baekjoon_2577.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.08/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.08/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.08/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.08/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.08/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.08/2021.08.08.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.08/out/production/2021.08.08/Baekjoon_1546.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.08/out/production/2021.08.08/Baekjoon_3052.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.08/out/production/2021.08.08/Baekjoon_4344.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.08/out/production/2021.08.08/Baekjoon_8958.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.08/src/Baekjoon_1546.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.08/src/Baekjoon_3052.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.08/src/Baekjoon_4344.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.08/src/Baekjoon_8958.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.13/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.13/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.13/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.13/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.13/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.13/2021.08.13.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.13/out/production/2021.08.13/Baekjoon_15596.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.13/out/production/2021.08.13/Baekjoon_4673.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.13/out/production/2021.08.13/Beakjoon_1065.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.13/src/Baekjoon_15596.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.13/src/Baekjoon_4673.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.13/src/Beakjoon_1065.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.14/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.14/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.14/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.14/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.14/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.14/2021.08.14.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.14/out/production/2021.08.14/Baekjoon_10809.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.14/out/production/2021.08.14/Baekjoon_11654.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.14/out/production/2021.08.14/Baekjoon_11720.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.14/src/Baekjoon_10809.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.14/src/Baekjoon_11654.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.14/src/Baekjoon_11720.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.15/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.15/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.15/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.15/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.15/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.15/2021.08.15.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.15/out/production/2021.08.15/Baekjoon_1152.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.15/out/production/2021.08.15/Baekjoon_1157.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.15/out/production/2021.08.15/Baekjoon_2675.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.15/src/Baekjoon_1152.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.15/src/Baekjoon_1157.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.15/src/Baekjoon_2675.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.16/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.16/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.16/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.16/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.16/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.16/2021.08.16.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.16/out/production/2021.08.16/Baekjoon_2908.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.16/out/production/2021.08.16/Baekjoon_2941.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.16/out/production/2021.08.16/Baekjoon_5622.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.16/src/Baekjoon_2908.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.16/src/Baekjoon_2941.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.16/src/Baekjoon_5622.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.17/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.17/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.17/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.17/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.17/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.17/2021.08.17.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.17/out/production/2021.08.17/Baekjoon_1193.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.17/out/production/2021.08.17/Baekjoon_1712.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.17/out/production/2021.08.17/Baekjoon_2292.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.17/src/Baekjoon_1193.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.17/src/Baekjoon_1712.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.17/src/Baekjoon_2292.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.19/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.19/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.19/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.19/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.19/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.19/2021.08.19.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.19/out/production/2021.08.19/Baekjoon_2839.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.19/src/Baekjoon_2839.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.20/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.20/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.20/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.20/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.20/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.20/2021.08.20.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.20/out/production/2021.08.20/Baekjoon_11653.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.20/out/production/2021.08.20/Baekjoon_1978.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.20/out/production/2021.08.20/Baekjoon_2581.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.20/src/Baekjoon_11653.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.20/src/Baekjoon_1978.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.20/src/Baekjoon_2581.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.21/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.21/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.21/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.21/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.21/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.21/2021.08.21.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.21/out/production/2021.08.21/Baekjoon_1929.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.21/out/production/2021.08.21/Baekjoon_4948.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.21/src/Baekjoon_1929.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.21/src/Baekjoon_4948.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.23/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.23/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.23/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.23/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.23/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.23/2021.08.23.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.23/out/production/2021.08.23/Baekjoon_1002.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.23/out/production/2021.08.23/Baekjoon_3053.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.23/out/production/2021.08.23/Baekjoon_4153.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.23/src/Baekjoon_1002.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.23/src/Baekjoon_3053.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.23/src/Baekjoon_4153.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.24/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.24/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.24/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.24/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.24/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.24/2021.08.24.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.24/out/production/2021.08.24/Baekjoon_10870.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.24/out/production/2021.08.24/Baekjoon_10872.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.24/src/Baekjoon_10870.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.24/src/Baekjoon_10872.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.25/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.25/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.25/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.25/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.25/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.25/2021.08.25.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.25/out/production/2021.08.25/Baekjoon_11729.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.25/out/production/2021.08.25/Baekjoon_11729_time.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.25/out/production/2021.08.25/Baekjoon_2447.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.25/src/Baekjoon_11729.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.25/src/Baekjoon_11729_time.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.25/src/Baekjoon_2447.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.26/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.26/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.26/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.26/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.26/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.26/2021.08.26.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.26/out/production/2021.08.26/Baekjoon_2798.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.26/src/Baekjoon_2798.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.27/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.27/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.27/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.27/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.27/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.27/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.27/2021.08.27.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.27/out/production/2021.08.27/Baekjoon_2231.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.27/src/Baekjoon_2231.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.28/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.28/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.28/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.28/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.28/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.28/2021.08.28.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.28/src/Baekjoon_7568.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.29/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.29/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.29/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.29/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.29/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.29/2021.08.29.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021.08.29/src/Baekjoon_1018.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2021.08.30.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Baekjoon_1436.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1xSE2DPDPxPCT9g4EcJGLwkjYZl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\GitHub\baekjoon_java\2021.08.30" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Baekjoon_1436" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon_1436" />
+      <module name="2021.08.30" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Baekjoon_1436" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="34c59065-6b75-49b5-84cb-7e4ed3da19ee" name="Changes" comment="" />
+      <created>1630339881964</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1630339881964</updated>
+      <workItem from="1630339883182" duration="455000" />
+      <workItem from="1631365274123" duration="717000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
