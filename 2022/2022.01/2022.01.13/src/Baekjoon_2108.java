@@ -32,7 +32,7 @@ public class Baekjoon_2108 {
 
         boolean flag = false;
 
-        for(int i=min+4000; i<max+4000; i++){
+        for(int i=min+4000; i<=max+4000; i++){
             if(arr[i] > 0){
                 // 중앙값 찾기
                 if(cnt < (n+1)/2){
@@ -43,11 +43,10 @@ public class Baekjoon_2108 {
                 // 최빈값 찾기
                 if(mode_max < arr[i]){
                     mode_max = arr[i];
-                    mode = i = 4000;
+                    mode = i - 4000;
                     flag = true;
                 }
                 else if(mode_max == arr[i] && flag == true){
-                    mode = i-4000;
                     mode = i-4000;
                     flag = false;
                 }
