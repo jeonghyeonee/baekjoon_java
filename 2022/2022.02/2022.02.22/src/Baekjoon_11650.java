@@ -1,3 +1,4 @@
+import java.util.Arrays;
 import java.util.Scanner;
 
 public class Baekjoon_11650 {
@@ -6,10 +7,14 @@ public class Baekjoon_11650 {
 
         int n = sc.nextInt();
 
+        int arr[][] = new int[n][2];
+
         for(int i=0; i<n; i++){
-            int x = sc.nextInt();
-            int y = sc.nextInt();
-            // 문제가 이해가 안되는데 큰일이네...^^
+            for(int j=0; j<arr[i].length; j++){
+                arr[i][j] = sc.nextInt();
+            }
         }
+//        자바에서 lambda 쓸 수 있나?
+        Arrays.sort(arr);
     }
 }
