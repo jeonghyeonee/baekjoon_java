@@ -25,10 +25,14 @@ public class Baekjoon_18870 {
             }
         }
 
+        StringBuilder sb = new StringBuilder();
+
         for(int i : origin){
-            System.out.print(map.get(i));
-            System.out.print(" ");
+            int rank = map.get(i);
+            sb.append(rank).append(' ');
         }
+
+        System.out.println(sb);
 
     }
 }
