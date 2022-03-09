@@ -1,3 +1,5 @@
+import java.util.Arrays;
+import java.util.HashMap;
 import java.util.Scanner;
 
 public class Baekjoon_18870 {
@@ -5,10 +7,27 @@ public class Baekjoon_18870 {
         Scanner sc = new Scanner(System.in);
 
         int N = sc.nextInt();
-        int[] arr = new int[N];
+        int[] origin = new int[N];
 
         for(int i=0; i<N; i++){
-            arr[i]=sc.nextInt();
+            origin[i]=sc.nextInt();
+        }
+
+        int[] sorted = origin.clone();
+        Arrays.sort(sorted);
+
+        HashMap<Integer, Integer> map = new HashMap<>();
+
+        int idx = 0;
+        for(int i : sorted){
+            if(!map.containsKey(i)){
+                map.put(i, idx++);
+            }
+        }
+
+        for(int i : origin){
+            System.out.print(map.get(i));
+            System.out.print(" ");
         }
 
     }
