@@ -25,7 +25,13 @@ public class Baekjoon_14889 {
 
     }
 
-    public static void plus(int n, int ability){
+    public static void plus(int idx, int cnt){
+        if(cnt == N /2){
+            return;
+        }
 
+        for(int i=idx; i<N; i++){
+            
+        }
     }
 }
