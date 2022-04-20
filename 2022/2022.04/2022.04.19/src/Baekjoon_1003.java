@@ -41,3 +41,6 @@ public class Baekjoon_1003 {
         return;
     }
 }
+
+// dp array로 다시 풀어보기...
+// 2 6 22 > 0 0 / 0 0 
