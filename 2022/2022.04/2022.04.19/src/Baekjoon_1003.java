@@ -20,7 +20,6 @@ public class Baekjoon_1003 {
 
         while(T --> 0){
             int N = Integer.parseInt(br.readLine());
-            int N = Integer.parseInt(br.readLine());
             fibo(N);
             sb.append(dp[N][0]+ " " + dp[N][1]).append('\n');
         }
