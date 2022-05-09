@@ -3,15 +3,20 @@ import java.io.InputStreamReader;
 
 public class Baekjoon_9184 {
 
-    public static Integer[] dp = new Integer[3];
+    public static Integer[][][] dp = new Integer[21][21][21];
 
     public static void main(String[] args) {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        StringBuilder sb = new StringBuilder();
+
+        while (true){
+            
+        }
 
     }
 
 
-    
+
     public static int w(int a, int b, int c){
         if (a<=0 || b<=0 || c<=0){
             return 1;
