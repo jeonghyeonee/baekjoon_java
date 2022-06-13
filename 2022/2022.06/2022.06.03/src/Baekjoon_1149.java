@@ -5,7 +5,8 @@ import java.util.StringTokenizer;
 
 public class Baekjoon_1149 {
 
-    public static int[] dp;
+    public static int[][] dp;
+    public static int[][] cost;
 
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
