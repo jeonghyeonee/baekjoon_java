@@ -17,9 +17,13 @@ public class Baekjoon_1932 {
         arr = new int[N][N];
         dp = new Integer[N][N];
         StringTokenizer st;
-        
+
         for(int i=0; i<N; i++){
             st = new StringTokenizer(br.readLine(), " ");
+
+            for(int j=0; j<i+1; j++){
+                arr[i][j] = Integer.parseInt(st.nextToken());
+            }
         }
 
     }
