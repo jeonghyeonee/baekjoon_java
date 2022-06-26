@@ -26,5 +26,18 @@ public class Baekjoon_1932 {
             }
         }
 
+        System.out.println(find(0, 0));
+
+    }
+
+    public static int find(int depth, int idx){
+        if(depth == N-1){
+            return dp[depth][idx];
+        }
+
+        if(dp[depth][idx] == null){
+            dp[depth][idx] = Math.max(find(depth+1, idx), find(depth+1, idx+1)) + arr[depth][idx];
+        }
+        return dp[depth][idx];
     }
 }
