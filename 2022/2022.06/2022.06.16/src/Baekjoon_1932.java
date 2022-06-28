@@ -26,6 +26,10 @@ public class Baekjoon_1932 {
             }
         }
 
+        for(int i=0; i<N; i++){
+            dp[N-1][i] = arr[N-1][i];
+        }
+
         System.out.println(find(0, 0));
 
     }
