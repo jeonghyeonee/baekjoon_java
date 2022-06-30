@@ -8,5 +8,8 @@ public class Baekjoon_2579 {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
         int N = Integer.parseInt(br.readLine());
+
+        int[] dp = new int[N+1];
+        int[] arr = new int[N+1];
     }
 }
