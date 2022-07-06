@@ -16,10 +16,16 @@ public class Baekjooon_24416 {
         dp[0] = 1;
         dp[1] = 1;
 
+        System.out.println(fibo(N));
+
 
     }
 
-    public int fibo(int N){
+    static int fibo(int N){
+        for(int i=2; i<N; i++){
+            dp[i] = dp[i-1] + dp[i-2];
+        }
+
         return dp[N];
     }
 
