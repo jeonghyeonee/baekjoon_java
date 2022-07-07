@@ -11,10 +11,10 @@ public class Baekjooon_24416 {
 
         int N = Integer.parseInt(br.readLine());
 
-        dp = new int[N];
+        dp = new int[N+1];
 
-        dp[0] = 1;
         dp[1] = 1;
+        dp[2] = 1;
 
         System.out.println(fibo(N));
 
@@ -22,7 +22,7 @@ public class Baekjooon_24416 {
     }
 
     static int fibo(int N){
-        for(int i=2; i<N; i++){
+        for(int i=3; i<(N+1); i++){
             dp[i] = dp[i-1] + dp[i-2];
         }
 
