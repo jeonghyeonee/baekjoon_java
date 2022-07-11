@@ -5,11 +5,13 @@ import java.io.InputStreamReader;
 public class Baekjoon_10844 {
 
     static int[] dp;
+    static int N;
+    final static long MOD = 1000000000;
 
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
-        int N = Integer.parseInt(br.readLine());
+        N = Integer.parseInt(br.readLine());
 
         dp = new int[N];
 
