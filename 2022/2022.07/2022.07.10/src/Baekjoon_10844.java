@@ -4,7 +4,7 @@ import java.io.InputStreamReader;
 
 public class Baekjoon_10844 {
 
-    static int[] dp;
+    static Long[][] dp;
     static int N;
     final static long MOD = 1000000000;
 
@@ -13,7 +13,11 @@ public class Baekjoon_10844 {
 
         N = Integer.parseInt(br.readLine());
 
-        dp = new int[N];
+        dp = new Long[N+1][10];
+
+        for(int i=0; i<10; i++){
+            dp[1][i] = 1L;
+        }
 
 //        호오,,,문제가 생각보다 이해가 안 가는 걸?
     }
