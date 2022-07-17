@@ -23,6 +23,9 @@ public class Baekjoon_2156 {
         dp[0] = 0;
         dp[1] = arr[1];
 
+        if(N>1){
+            dp[2] = arr[1] + arr[2];
+        }
 
     }
 }
