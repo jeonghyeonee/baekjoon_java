@@ -27,5 +27,16 @@ public class Baekjoon_2156 {
             dp[2] = arr[1] + arr[2];
         }
 
+        System.out.println(recur(N));
+
     }
+
+    static int recur(int N){
+        if(dp[N] == null){
+            dp[N] = Math.max(Math.max(recur(N-2), recur(N-3)+arr[N-1]) + arr[N], recur(N-1));
+        }
+        return dp[N];
+    }
+
+
 }
