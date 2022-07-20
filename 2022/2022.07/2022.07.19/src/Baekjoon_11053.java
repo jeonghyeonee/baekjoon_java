@@ -5,12 +5,22 @@ import java.util.StringTokenizer;
 
 public class Baekjoon_11053 {
 
+    static int[] seq;
+    static Integer[] dp;
+
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
         int N = Integer.parseInt(br.readLine());
 
-        StringTokenizer st;
-        
+        seq = new int[N];
+        dp = new Integer[N];
+
+        StringTokenizer st = new StringTokenizer(br.readLine(), " ");
+
+        for(int i=0; i<N; i++){
+            seq[i] = Integer.parseInt(st.nextToken());
+        }
+
     }
 }
