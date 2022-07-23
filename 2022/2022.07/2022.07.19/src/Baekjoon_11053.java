@@ -22,5 +22,13 @@ public class Baekjoon_11053 {
             seq[i] = Integer.parseInt(st.nextToken());
         }
 
+        for(int i=0; i<N; i++){
+            LTS(i);
+        }
+
+    }
+
+    static int LTS(int N){
+        
     }
 }
