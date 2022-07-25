@@ -28,6 +28,11 @@ public class Baekjoon_11053 {
 
         int max = dp[0];
 
+        for(int i=1; i<N; i++){
+            max = Math.max(max, dp[i]);
+        }
+        System.out.println(max);
+
     }
 
     static int LTS(int N){
