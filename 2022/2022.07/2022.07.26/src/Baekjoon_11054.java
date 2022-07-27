@@ -15,5 +15,9 @@ public class Baekjoon_11054 {
         dp = new int[N];
 
         StringTokenizer st = new StringTokenizer(br.readLine(), " ");
+
+        for(int i=0; i<N; i++){
+            dp[i] = Integer.parseInt(st.nextToken());
+        }
     }
 }
