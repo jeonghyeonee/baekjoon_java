@@ -15,6 +15,8 @@ public class Baekjoon_11054 {
         int N = Integer.parseInt(br.readLine());
 
         r_dp = new Integer[N];
+        l_dp = new Integer[N];
+        seq = new int[N];
 
         StringTokenizer st = new StringTokenizer(br.readLine(), " ");
 
