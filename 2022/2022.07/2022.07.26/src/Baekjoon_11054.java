@@ -24,4 +24,17 @@ public class Baekjoon_11054 {
             seq[i] = Integer.parseInt(st.nextToken());
         }
     }
+
+    static int LTS(int N){
+        if(r_dp[N] == null){
+            r_dp[N] = 1;
+
+            for(int i=N-1; i>=0; i--){
+                if(seq[i] <seq[N]){
+                    r_dp[N] = Math.max(r_dp[N], LTS(i)+1);
+                }
+            }
+        }
+        return r_dp[N];
+    }
 }
