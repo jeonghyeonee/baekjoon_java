@@ -37,4 +37,12 @@ public class Baekjoon_11054 {
         }
         return r_dp[N];
     }
+
+    static int LDS(int N){
+        if(l_dp[N] == null){
+            l_dp[N] = 1;
+        }
+    }
+
+
 }
