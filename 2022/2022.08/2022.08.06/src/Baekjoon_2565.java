@@ -5,16 +5,24 @@ import java.util.StringTokenizer;
 
 public class Baekjoon_2565 {
 
-    static int[][] dp;
+    static int[][] wire;
+    static Integer[] dp;
 
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
         int N = Integer.parseInt(br.readLine());
 
-        StringTokenizer st = new StringTokenizer(br.readLine(), " ");
+        dp = new Integer[N];
+        wire = new int[N][2];
+
+        StringTokenizer st;
 
         for(int i=0; i<N; i++){
+            st = new StringTokenizer(br.readLine(), " ");
+
+            wire[i][0] = Integer.parseInt(st.nextToken());
+            wire[i][1] = Integer.parseInt(st.nextToken());
         }
     }
 }
