@@ -24,5 +24,10 @@ public class Baekjoon_2565 {
             wire[i][0] = Integer.parseInt(st.nextToken());
             wire[i][1] = Integer.parseInt(st.nextToken());
         }
+
+    }
+
+    static int recur(int N){
+        
     }
 }
