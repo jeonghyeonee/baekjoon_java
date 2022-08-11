@@ -28,6 +28,16 @@ public class Baekjoon_2565 {
     }
 
     static int recur(int N){
-        
+
+        if(dp[N] == null){
+            dp[N] = 1;
+            for(int i=N+1; i<dp.length; i++){
+                if(wire[N][1] <wire[i][1]){
+                    dp[N] = Math.max(dp[N], recur(i)+1);
+                }
+            }
+        }
+        return dp[N];
+
     }
 }
