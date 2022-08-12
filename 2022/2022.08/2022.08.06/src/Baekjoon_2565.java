@@ -1,6 +1,7 @@
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
+import java.util.Arrays;
 import java.util.StringTokenizer;
 
 public class Baekjoon_2565 {
@@ -24,6 +25,9 @@ public class Baekjoon_2565 {
             wire[i][0] = Integer.parseInt(st.nextToken());
             wire[i][1] = Integer.parseInt(st.nextToken());
         }
+
+
+        Arrays.sort(wire, new Comparator<int[]>)
 
     }
 
