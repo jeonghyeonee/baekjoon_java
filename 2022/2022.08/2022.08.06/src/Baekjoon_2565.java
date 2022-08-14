@@ -2,6 +2,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.Arrays;
+import java.util.Comparator;
 import java.util.StringTokenizer;
 
 public class Baekjoon_2565 {
@@ -27,7 +28,13 @@ public class Baekjoon_2565 {
         }
 
 
-        Arrays.sort(wire, new Comparator<int[]>)
+        Arrays.sort(wire, new Comparator<int[]>() {
+
+            @Override
+            public int compare(int[] o1, int[] o2) {
+                return o1[0] - o2[0];
+            }
+        });
 
     }
 
