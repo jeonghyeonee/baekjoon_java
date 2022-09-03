@@ -36,6 +36,14 @@ public class Baekjoon_2565 {
             }
         });
 
+        int max=0;
+
+        for(int i=0; i<N; i++){
+            max=Math.max(recur(i), max);
+        }
+
+        System.out.println(N-max);
+
     }
 
     static int recur(int N){
