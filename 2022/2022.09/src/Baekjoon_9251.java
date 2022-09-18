@@ -21,6 +21,15 @@ public class Baekjoon_9251 {
     }
 
     static int LCS(int x, int y){
-        
+
+        if(x==-1 || y==-1){
+            return 0;
+        }
+
+        if(dp[x][y] == null){
+            dp[x][y] = 0;
+            
+        }
+
     }
 }
