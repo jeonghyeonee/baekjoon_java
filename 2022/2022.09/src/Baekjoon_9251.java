@@ -28,8 +28,16 @@ public class Baekjoon_9251 {
 
         if(dp[x][y] == null){
             dp[x][y] = 0;
-            
+
+            if(str1[x] == str2[y]){
+                dp[x][y] = LCS(x-1, y-1) + 1;
+            }
+
+            else{
+                dp[x][y] = Math.max(LCS(x-1, y), LCS(x, y-1));
+            }
         }
+        return dp[x][y];
 
     }
 }
