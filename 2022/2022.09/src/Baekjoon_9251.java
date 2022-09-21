@@ -17,7 +17,7 @@ public class Baekjoon_9251 {
 
         dp = new Integer[str1.length][str2.length];
 
-        System.out.println();
+        System.out.println(LCS(str1.length-1, str2.length-1));
     }
 
     static int LCS(int x, int y){
