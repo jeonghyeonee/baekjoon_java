@@ -7,9 +7,9 @@ public class Baekjoon_12865 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
-        StringTokenizer st = new StringTokenizer(br.readLine());
+        StringTokenizer st = new StringTokenizer(br.readLine(), " ");
 
-        int K = Integer.parseInt(st.nextToken());
         int N = Integer.parseInt(st.nextToken());
+        int K = Integer.parseInt(st.nextToken());
     }
 }
