@@ -16,5 +16,8 @@ public class Baekjoon_12865 {
 
         int N = Integer.parseInt(st.nextToken());
         int K = Integer.parseInt(st.nextToken());
+
+        W = new int[N];
+        V = new int[N];
     }
 }
