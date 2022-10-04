@@ -19,5 +19,15 @@ public class Baekjoon_12865 {
 
         W = new int[N];
         V = new int[N];
+
+        dp = new Integer[N][K+1];
+
+        for(int i=0; i<N; i++){
+            st = new StringTokenizer(br.readLine(), " ");
+            W[i] = Integer.parseInt(st.nextToken());
+            V[i] = Integer.parseInt(st.nextToken());
+        }
+
+        System.out.println();
     }
 }
